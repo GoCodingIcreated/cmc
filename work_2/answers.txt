@@ -1,0 +1,87 @@
+**ANSWER 1
+-f
+
+**ANSWER 2
+BSD General Commands Manual
+Linux Programmer's Manual
+
+**ANSWER 3
+cat:Объединяет файлы и печатает их на стандартный поток вывода
+grep: Выводит все строки из файла, отвечающие заданном регулярному выражению
+head: выводит  часть файла, начиная от начала
+ls: показывает содержимое дериктории
+ps: делает снимок  рабочих процессов на данном компьютере
+sort: сортирует строки в текстовом файле
+tail: выводит часть файла, начиная с конца
+top: показывает список процессов, работающих в данный момент
+wc: печатает количество переводов строки, слов, количество байт и имя файла для каждого из выбранного файла. если выбранно несколько, то подсчитывает еще и сумму
+yes: печатает все время yes
+
+**ANSWER 4
+Упорядочены в алфавитном порядке
+
+**ANSWER 5
+zjsdecode
+66632
+7 5 5
+
+**ANSWER 6
+ls -l -S
+
+**ANSWER 7
+w4
+
+**ANSWER 8
+-rw-r--r-- 1 root root   91 апр.  19  2012 /etc/networks        
+-rw-r--r-- 1 root root 1667 сент.  4 19:24 /etc/passwd
+
+**ANSWER 9
+cat /etc/hosts > ~/file3
+cat /etc/passwd >> ~/file3
+cat /etc/fstab >> ~/file3
+
+**ANSWER 10
+4
+
+**ANSWER 11
+112 Символов, каждый занимает 1 байт
+Еще 2 перевода строки
+
+**ANSWER 12
+4 и 5 байт
+потому что в одном случае записался перевод строки, а в другом нет
+
+**ANSWER 13
+/home/nickolas
+Домашний каталог
+
+**ANSWER 14
+usr/include/sys
+
+**ANSWER 15
+10:08
+7 7 5
+
+**ANSWER 16
+drwxr-x--- 2 nickolas nickolas 4096 сент.  8 10:08 newtask1
+
+**ANSWER 17
+6 Байт
+
+**ANSWER 18
+/etc/cron.d /etc/cron.daily /etc/cron.hourly /etc/cron.monthly /etc/crontab /etc/cron.weekly
+
+
+**ANSWER 19
+-елаю со своего компьютера, не могу ответить на этот вопрос
+
+**ANSWER 20
+-rw-r--r-- 1 nickolas nickolas  226 сент.  8 10:17 hosts
+-rw-r--r-- 1 nickolas nickolas 1667 сент.  8 10:16 passwd
+
+**ANSWER 21
+-rw-r--r-- 1 nickolas nickolas  226 сент.  8 10:17 hosts2
+-rw-r--r-- 1 nickolas nickolas 1667 сент.  8 10:16 passwd
+
+
+
