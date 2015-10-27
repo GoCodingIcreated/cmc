@@ -1,5 +1,5 @@
 TARGET=main
-CFILES=5.c
+CFILES=3.c
 HFILES=
 OBJECTS=$(CFILES:.c=.o)
 CFLAGS=-g -std=gnu99 -Wall -Werror
